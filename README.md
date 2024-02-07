@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Pierre
 
+[![PierreLessard's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreLessard)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[your link"](https://www.linkedin.com/in/pierre-william-lessard-4"7251a209/) target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style=”background-color:##808080″ alt="" height="30" width="40" /></a>
